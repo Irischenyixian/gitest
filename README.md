@@ -40,4 +40,4 @@
 
 
 ## 圖片
-(https://github.com/Irischenyixian/gitest/blob/master/00.png)
+(https://github.com/Irischenyixian/gitest/blob/master/00.jpg)
